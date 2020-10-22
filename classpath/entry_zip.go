@@ -37,7 +37,7 @@ func (self *ZipEntry) readClass(className string) ([]byte, Entry, error) {
 
 func (self *ZipEntry) openJar() error {
 	r, err := zip.OpenReader(self.absPath)
-	if err != nil {
+	if err == nil {
 		self.zipRC = r
 	}
 	return err

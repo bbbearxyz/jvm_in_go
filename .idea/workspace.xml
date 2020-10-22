@@ -22,13 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jvm_in_go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classpath/Entry.go" beforeDir="false" afterPath="$PROJECT_DIR$/classpath/Entry.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classpath/classpath.go" beforeDir="false" afterPath="$PROJECT_DIR$/classpath/classpath.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
