@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classpath/Entry.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classpath/entry_composite.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classpath/entry_dir.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classpath/entry_zip.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classpath/classpath.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classpath/entry_wildcard.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/cmd.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classpath/entry_composite.go" beforeDir="false" afterPath="$PROJECT_DIR$/classpath/entry_composite.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="918" height="275" key="GridCell.Tab.0.bottom" timestamp="1603260239073">
@@ -115,9 +113,9 @@
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
     <state width="918" height="275" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1603260239073" />
-    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1603264165544">
+    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1603355720894">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1603264165544" />
+    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1603355720894" />
   </component>
 </project>
