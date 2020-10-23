@@ -22,7 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="" />
+    <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ClassFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classfile/class_file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classfile/class_reader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classfile/constant_pool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classfile/member_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +72,7 @@
       <recent name="$PROJECT_DIR$/cmd" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build test.go">
     <configuration name="go build cmd.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="jvm_in_go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -73,8 +81,17 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvm_in_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build cmd.go" />
       </list>
     </recent_temporary>
@@ -99,25 +116,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="918" height="275" key="GridCell.Tab.0.bottom" timestamp="1603260239073">
+    <state width="1750" height="275" key="GridCell.Tab.0.bottom" timestamp="1603468605249">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state width="918" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1603260239073" />
-    <state width="918" height="275" key="GridCell.Tab.0.center" timestamp="1603260239073">
+    <state width="1750" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1603468605249" />
+    <state width="1750" height="275" key="GridCell.Tab.0.center" timestamp="1603468605249">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state width="918" height="275" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1603260239073" />
-    <state width="918" height="275" key="GridCell.Tab.0.left" timestamp="1603260239073">
+    <state width="1750" height="275" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1603468605249" />
+    <state width="1750" height="275" key="GridCell.Tab.0.left" timestamp="1603468605248">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state width="918" height="275" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1603260239073" />
-    <state width="918" height="275" key="GridCell.Tab.0.right" timestamp="1603260239073">
+    <state width="1750" height="275" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1603468605248" />
+    <state width="1750" height="275" key="GridCell.Tab.0.right" timestamp="1603468605249">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state width="918" height="275" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1603260239073" />
-    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1603361114047">
+    <state width="1750" height="275" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1603468605249" />
+    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1603462012756">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1603361114047" />
+    <state x="977" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1603462012756" />
   </component>
 </project>
