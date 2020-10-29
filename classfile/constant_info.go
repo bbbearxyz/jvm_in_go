@@ -43,7 +43,7 @@ func newConstantInfo(tag uint8, cp ConstantPool) ConstantInfo {
 	case CONSTANT_Double:
 		return &ConstantDoubleInfo{}
 	case CONSTANT_Class:
-		return &ConstantClassInfo{}
+		return &ConstantClassInfo{cp: cp}
 	case CONSTANT_String:
 		return &ConstantStringInfo{}
 	case CONSTANT_FieldRef:
