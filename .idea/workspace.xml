@@ -23,14 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab645d10-fdfb-4ce8-b425-65a8a26f0ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classfile/cp_class.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classfile/cp_invoke_dynamic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classfile/cp_member_ref.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classfile/cp_name_and_type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classfile/cp_string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classfile/cp_utf8.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classfile/attribute_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/classfile/attribute_info.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classfile/constant_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/classfile/constant_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classfile/cp_member_ref.go" beforeDir="false" afterPath="$PROJECT_DIR$/classfile/cp_member_ref.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classfile/member_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/classfile/member_info.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

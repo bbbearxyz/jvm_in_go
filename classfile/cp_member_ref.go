@@ -1,34 +1,34 @@
 package classfile
 
-type ConstantMemberInfo struct {
+type ConstantMemberRefInfo struct {
 	cp					ConstantPool
 	classIndex			uint16
 	nameAndTypeIndex	uint16
 }
 
-func (self *ConstantMemberInfo) readInfo(reader *ClassReader) {
+func (self *ConstantMemberRefInfo) readInfo(reader *ClassReader) {
 	self.classIndex = reader.readUint16()
 	self.nameAndTypeIndex = reader.readUint16()
 }
 
-func (self *ConstantMemberInfo) ClassName() string {
+func (self *ConstantMemberRefInfo) ClassName() string {
 	return self.cp.getClassName(self.classIndex)
 }
 
-func (self *ConstantMemberInfo) NameAndTypeDescriptor() (string, string) {
+func (self *ConstantMemberRefInfo) NameAndTypeDescriptor() (string, string) {
 	return self.cp.getNameAndType(self.nameAndTypeIndex)
 }
 
 type ConstantFieldRefInfo struct {
-	ConstantMemberInfo
+	ConstantMemberRefInfo
 }
 
 type ConstantMethodRefInfo struct {
-	ConstantMemberInfo
+	ConstantMemberRefInfo
 }
 
 type ConstantInterfaceMethodRefInfo struct {
-	ConstantMemberInfo
+	ConstantMemberRefInfo
 }
 
 

@@ -1,7 +1,7 @@
 package classfile
 
 type MemberInfo struct {
-	cp				ContantPool
+	cp				ConstantPool
 	accessFlags    	uint16
 	nameIndex       uint16
 	descriptorIndex	uint16
